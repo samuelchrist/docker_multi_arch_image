@@ -1,0 +1,1 @@
+# docker_multi_arch_image
